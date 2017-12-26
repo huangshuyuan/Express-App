@@ -1,9 +1,9 @@
 # Express-App
-简单的快递查询App、GreenDao使用
+1、简单的快递查询App、GreenDao使用
 
-运单号采用的易源数据（有效期一年，每天50次调用）
+2、运单号采用的易源数据（有效期一年，每天50次调用）
 
-数据库GreenDao
+3、数据库GreenDao
 
 ![](https://github.com/huangshuyuan/Express-App/blob/master/imgs/1.png)
 ![](https://github.com/huangshuyuan/Express-App/blob/master/imgs/2.png)
